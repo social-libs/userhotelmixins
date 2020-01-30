@@ -1,0 +1,27 @@
+{
+  "name": "social_userhotelmixinslib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with mixins for a social user aware hotel",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/social-libs/userhotelmixins.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "social",
+    "user",
+    "hotel",
+    "mixins",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/social-libs/userhotelmixins/issues"
+  },
+  "homepage": "https://github.com/social-libs/userhotelmixins#readme"
+}
